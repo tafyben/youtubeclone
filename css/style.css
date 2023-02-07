@@ -37,3 +37,6 @@ nav{
     width: 25px;
     margin-right: 25px;
 }
+.nav-left .logo{
+    width: 130px;
+}
