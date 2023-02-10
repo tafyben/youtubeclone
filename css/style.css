@@ -305,4 +305,24 @@ nav{
     border-radius: 4px;
     cursor: pointer;
 }
+
+.video-description{
+    padding-left: 55px;
+    margin: 15px 0;
+
+}
+.video-description p{
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #5a5a5a;
+}
+.video-description h4{
+    font-size: 14px;
+    color: #5a5a5a;
+    margin-top: 15px;
+}
+
+/*--------- comment section -----------*/
+.add
+
 /*--------- video page end ------------*/
