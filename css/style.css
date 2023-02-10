@@ -323,6 +323,24 @@ nav{
 }
 
 /*--------- comment section -----------*/
-.add
+.add-comment{
+    display: flex;
+    align-items: center;
+    margin: 30px 0;
+}
+
+.add-comment img{
+    width: 35px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.add-comment input{
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    padding-top: 10px;
+    background: transparent;
+}
 
 /*--------- video page end ------------*/
